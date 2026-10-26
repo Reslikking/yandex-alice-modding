@@ -14,6 +14,8 @@ The repository aims to provide clear documentation and practical demonstrations 
 
 - [Device Compatibility](docs/COMPATIBILITY.md) — device models and research status.
 - [Setup and Preparation](docs/SETUP.md) — preparation, testing, and troubleshooting.
+- [Device Test Report Template](docs/TEST_REPORT_TEMPLATE.md) — structured test reports.
+- [Video Demonstrations](docs/VIDEO_DEMOS.md) — planned and published video demonstrations.
 
 ## Project Roadmap
 
