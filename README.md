@@ -2,36 +2,38 @@
 
 **Independent research project by Reslik king**
 
-Research, documentation, and customization of Yandex Alice smart speakers.
+Research, technical documentation, compatibility analysis, and customization of Yandex Alice smart speakers.
 
-## About
+## Project Overview
 
-This project explores the technical capabilities of Yandex Alice smart speakers, device compatibility, software configuration, and available customization options.
+This project documents research into supported devices, configuration, troubleshooting, and customization possibilities.
 
-The goal is to create a structured knowledge base with detailed documentation, practical demonstrations, and technical references.
-
-## Project roadmap
-
-- [x] Create the public repository.
-- [ ] Document supported devices and compatibility.
-- [ ] Prepare step-by-step tutorials.
-- [ ] Publish tested configuration examples.
-- [ ] Record practical demonstrations.
-- [ ] Document Spotify functionality and customization options.
+The repository aims to provide clear documentation and practical demonstrations based on reproducible tests.
 
 ## Documentation
 
-Technical guides and compatibility notes will be published here as they are prepared and tested.
+- [Device Compatibility](docs/COMPATIBILITY.md) — device models and research status.
+- [Setup and Preparation](docs/SETUP.md) — preparation, testing, and troubleshooting.
 
-## Video demonstrations
+## Project Roadmap
 
-YouTube demonstrations will be linked here when available.
+- [x] Create the repository.
+- [x] Publish initial compatibility documentation.
+- [x] Publish setup and preparation documentation.
+- [ ] Conduct and document device tests.
+- [ ] Prepare detailed technical tutorials.
+- [ ] Publish video demonstrations.
+- [ ] Document verified Spotify functionality and customization options.
+
+## Video Demonstrations
+
+Demonstration videos will be linked here after publication.
 
 ## Disclaimer
 
-This is an independent community research project and is not affiliated with or endorsed by Yandex.
+This is an independent community research project. It is not affiliated with or endorsed by Yandex.
 
-Device modifications may affect functionality, security, or warranty. Always verify compatibility and understand recovery procedures before making changes.
+Procedures involving firmware, debugging interfaces, or network settings may affect device functionality or security. Verify compatibility and recovery procedures before making changes.
 
 ## Author
 
