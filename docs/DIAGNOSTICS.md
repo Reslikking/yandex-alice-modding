@@ -21,10 +21,11 @@ This document records official diagnostic information and separates confirmed fa
 - Startup, voice responses, clock animation, Wi-Fi, and music playback passed baseline checks.
 
 ## Not Yet Verified
-- Availability of ADB on this firmware.
-- Availability of root access.
-- Compatibility with custom modifications.
-- Methods for controlling or disabling firmware updates.
+- A public community project reports testing root ADB on firmware `0.369.1.46.4778262943.20261013.299`.
+- The same project reports that firmware `0.369.1.50.4794659041.20261021.299` rejects the certificate chain used by its method.
+- These reports have not been independently reproduced for this project.
+- Compatibility with this device's exact firmware remains unverified.
+- No DNS changes, certificate interception, or system modifications have been performed.
 
 ## Safety and Reproducibility
 - Do not publish device identifiers, account details, Wi-Fi credentials, or tokens.
