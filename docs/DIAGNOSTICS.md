@@ -26,6 +26,11 @@ This document records official diagnostic information and separates confirmed fa
 - These reports have not been independently reproduced for this project.
 - Compatibility with this device's exact firmware remains unverified.
 - No DNS changes, certificate interception, or system modifications have been performed.
+- The Yandex Station Extended community wiki documents an AliceBridge method for obtaining root through Android.
+- As of 2026-10-25, the wiki lists Yandex Station Mini 2 as requiring verification for its firmware profile.
+- Availability of a firmware profile does not confirm successful root access on this device.
+- Source: https://hackalice.me/start/root-android/
+- Source: https://hackalice.me/devices/yandexmini_2/
 
 ## Safety and Reproducibility
 - Do not publish device identifiers, account details, Wi-Fi credentials, or tokens.
