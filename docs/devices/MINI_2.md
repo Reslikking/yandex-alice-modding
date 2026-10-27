@@ -8,7 +8,7 @@
 
 - **Product:** Yandex Station Mini 2
 - **Model number:** To be confirmed on the device label
-- **Display:** Clock display / no display
+- **Display:** Clock display with Alice animation
 - **Firmware build:** Not yet recorded
 - **Test date:** Pending
 
