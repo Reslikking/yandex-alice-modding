@@ -5,12 +5,14 @@
 **Research status:** In progress
 
 ## Device Identification
-
 - **Product:** Yandex Station Mini 2
-- **Model number:** To be confirmed on the device label
+- **Model number:** YNDX-00020
+- **Original name in app:** Станция Мини new
 - **Display:** Clock display with Alice animation
-- **Firmware build:** Not yet recorded
-- **Test date:** Pending
+- **Manufacturer:** Yandex Services AG
+- **Firmware version:** `0.369.1.50.4794659041.20261021.299`
+- **Test date:** 2026-10-27
+- **Research status:** In progress
 
 ## Official Documentation
 
