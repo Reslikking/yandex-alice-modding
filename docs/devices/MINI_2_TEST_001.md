@@ -6,17 +6,24 @@
 - Test date: 2026-10-27
 
 ## Baseline Status
-- Normal startup: Not yet tested
-- Voice responses: Not yet tested
-- Wi-Fi connectivity: Not yet tested
-- Music playback: Not yet tested
-- Display and Alice animation: Not yet tested
+- Normal startup: PASS
+- Voice responses: PASS
+- Display and Alice animation: PASS
+- Wi-Fi connectivity: PASS
+- Music playback: PASS
 
 ## Modifications
-- No modifications performed
+- No modifications performed during baseline testing.
 
 ## Results
-Testing has not started. No compatibility claims have been verified for this firmware.
+All five baseline checks completed successfully under the recorded firmware version.
+
+These results confirm normal basic operation only. They do not establish compatibility with root access, ADB, firmware modifications, or update controls.
 
 ## Recovery
-No system or network settings have been changed as part of this report.
+No system or network settings were changed during baseline testing.
+
+## Next Steps
+- Document the exact test conditions.
+- Research supported diagnostic methods for this model and firmware.
+- Record any further tests separately, including failures and recovery steps.
